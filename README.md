@@ -106,6 +106,16 @@ Once loaded, wraps will appear in Toybox → Paint Shop → Wraps tab:
 <img src="images/paint-shop-wraps-m3.png" width="400"/>
 </p>
 
+### Custom License Plate Background Setup (Optional)
+
+* **Resolution**: Up to 420x200 pixels.
+* **File Size**: Images must be no larger than 0.5 MB.
+
+1. Create a folder called `LicensePlate` at the root level of the drive
+2. Place your PNG files inside the `LicensePlate` folder
+   
+Once loaded, up to 10 custom license plates will appear in Toybox → Paint Shop → License Plate → Background.
+
 ### Troubleshooting
 
 If you encounter any issues with loading or applying wrap images, please check the following:
