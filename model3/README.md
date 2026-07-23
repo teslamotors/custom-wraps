@@ -23,6 +23,7 @@ Download the template below and customize it with your own design. For complete 
 <a href="example/Ice_Cream.png"><img src="example/Ice_Cream.png" width="150"/></a>
 <a href="example/Leopard.png"><img src="example/Leopard.png" width="150"/></a>
 <a href="example/Pixel_Art.png"><img src="example/Pixel_Art.png" width="150"/></a>
+<a href="example/Poop_Emoji.png"><img src="example/Poop_Emoji.png" width="150"/></a>
 <a href="example/Reindeer.png"><img src="example/Reindeer.png" width="150"/></a>
 <a href="example/Rudi.png"><img src="example/Rudi.png" width="150"/></a>
 <a href="example/Sakura.png"><img src="example/Sakura.png" width="150"/></a>
