@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="Barcelona_flag 2" src="https://github.com/user-attachments/assets/5aa6b38c-d903-4439-8180-3eb708ddafd9" />
+<img width="1024" height="1024" alt="FC_Barcelone" src="https://github.com/user-attachments/assets/c241e00b-2d50-4407-900c-6d5100c23b7b" />
 # Model Y Custom Wraps
 
 Download the template below and customize it with your own design. For complete setup instructions and requirements, see the [main page](https://github.com/teslamotors/custom-wraps).
