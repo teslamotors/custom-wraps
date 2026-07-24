@@ -114,3 +114,17 @@ If you encounter any issues loading wraps from a USB drive, please check the fol
 
 * Ensure that the USB drive is formatted correctly and does not contain any map update or firmware update files.
 * Verify that the wrap images meet the requirements listed above.
+
+## Third-Party Tools
+
+The following community-created tools are not affiliated with or endorsed by Tesla, but may be helpful when creating custom wrap designs.
+
+### Tesla Wrap Maker (Community Tool)
+
+A third-party web tool that can assist with creating wrap images using the templates in this repository. It provides guided editing and exports PNG files that can be copied to a USB drive for use in the Paint Shop.
+
+* Optional — not required to use custom wraps
+* Not reviewed, maintained, or supported by Tesla
+* Users are responsible for ensuring exported images meet the requirements listed above
+
+Learn more: https://tesla-wrap-maker.com/
