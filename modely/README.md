@@ -12,6 +12,7 @@ Download the template below and customize it with your own design. For complete 
 
 <p>
 <a href="example/Acid_Drip.png"><img src="example/Acid_Drip.png" width="150"/></a>
+<a href="example/ALR2_Padres_Tropical.png"><img src="example/ALR2_Padres_Tropical.png" width="150"/></a>
 <a href="example/Ani.png"><img src="example/Ani.png" width="150"/></a>
 <a href="example/Apocalypse.png"><img src="example/Apocalypse.png" width="150"/></a>
 <a href="example/Avocado_Green.png"><img src="example/Avocado_Green.png" width="150"/></a>
