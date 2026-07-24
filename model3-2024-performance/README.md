@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="Barcelona_flag 2" src="https://github.com/user-attachments/assets/91584acd-342b-4f0e-9274-726cac4b5b5d" />
 # Model 3 Performance (2024+) Custom Wraps
 
 Download the template below and customize it with your own design. For complete setup instructions and requirements, see the [main page](https://github.com/teslamotors/custom-wraps).
