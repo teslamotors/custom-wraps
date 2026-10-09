@@ -75,6 +75,14 @@ Choose your vehicle to download the template and view example wraps:
 </tr>
 </table>
 
+## Community Tools
+
+[Tesla Wrap Designer](https://tesla-wrap.design) is a browser-based tool built on these templates:
+
+* **Free wrap gallery**: browse and download community designs ([gallery](https://tesla-wrap.design/gallery))
+* **Online editor**: edit wraps in 2D with a live 3D preview, then export a PNG that meets the requirements below
+* **AI generation**: create a wrap design from a text prompt
+
 ## Requirements & Setup
 
 ### Image Requirements
